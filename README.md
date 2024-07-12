@@ -1,7 +1,7 @@
 Practice React project.
 
-Project that covers initial React features like components and useState.
+A project that covers initial React features like components and useState.
+The task was taken from the React online course.
 
--- to run project:
-
+-- to run the project:
 npm start
